@@ -1,0 +1,7 @@
+Need an AI model that detects lung cancer using cnn with its dataset
+Deep Learning
+Posted 12 days ago
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+Worldwide
+need it to be built with its dataset and connect it with an api and need to be always in touch wit the developer
